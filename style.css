@@ -1,0 +1,33 @@
+body {
+    font-family: 'Nanum Gothic Coding', monospace;
+}
+h1{ 
+    color:crimson;
+    font-family: 'Homemade Apple', cursive;
+}    
+h2{
+    color:coral;
+    font-family: 'Nanum Gothic Coding', monospace;
+}
+h3 {
+    color:mediumseagreen;
+    font-family: 'Nanum Gothic Coding', monospace;
+
+}
+h4{
+    color: cornflowerblue;
+    font-family: 'Nanum Gothic Coding', monospace;
+}
+h5{
+    color: palevioletred;
+    font-family: 'Nanum Gothic Coding', monospace;
+}
+h6{
+    color: peachpuff;
+    font-family: 'Nanum Gothic Coding', monospace;
+    font-size: 1.5em;
+}
+p{
+    color: palevioletred;
+
+}

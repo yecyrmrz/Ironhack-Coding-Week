@@ -29,5 +29,18 @@ h6{
 }
 p{
     color: palevioletred;
+    font-size: 1em;
+    line-height: 0.5em;
+}
+.icon{
+    color: purple;
+    font-size: 69px;
+}
+
+header{
+    background-color: lightblue
+}
+div{
+    border: 1px slategray solid;
 
 }
